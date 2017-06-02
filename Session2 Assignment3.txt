@@ -1,0 +1,4 @@
+Question)What is JIT?
+Answer-JIT known as Just In Time.It is a program its use is that it converts bytecode into instructions, and this instruction can be directly passed to the processor.
+It comes with virtual machine and  is used optionally .JVM executes one code at a time SO the execution process is slow or takes lot of time  but JIT recompiles 
+these bytecode into a particular sysatem code. Initally these code is compiled by the compiler and when these code is re-compiled by JIT it run more faster.
